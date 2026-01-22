@@ -40,7 +40,7 @@ Olivia Roberts
 
 Minyoung So
 
-Nate Truettner
+Nate Truettner - @ntruettner1, I am from Waukesha, Wisconsin and I really enjoy going to the movies and reading
 
 Kyle Wakerley
 
