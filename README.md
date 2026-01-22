@@ -26,7 +26,7 @@ Clara Bowman
 
 Hanna Fei
 
-Andre Gala-Garza
+[**@AndreGalaGarza**](https://github.com/AndreGalaGarza/) I'm Andre, and last summer I attended the [Biomedical Data Science Summer Academy](https://badges.parchment.com/public/assertions/HfyTugHdQluBB6LrmA3GbQ) offered by [MIDAS](https://midas.umich.edu/). <img src="https://avatars.githubusercontent.com/u/113049436?v=4" alt="profile pic" width="40px">
 
 Chun Tse Hung [**@chuntseh**](https://github.com/chuntseh) I'm Chun-Tse, a first-year PhD student at UMich College of Pharmacy.
 
