@@ -34,7 +34,7 @@ Boqian Mao
 
 Faith Okaalo
 
-Kyoka Ono
+[**@kyokaono8811**](https://github.com/kyokaono8811) I'm Kyoka, I'm from Japan and I like to do soccer/run in my free time. 
 
 [**@oroberts**](https://github.com/oliveroberts) I'm Olivia, but you can call me Olive. I am a yoga teacher.
 
